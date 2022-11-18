@@ -2,10 +2,10 @@ const card = (title, description, image) => ` <div class="col-lg-4 col-sm-12"> <
 
 
 
-(async () => {
-  const apiData = await fetch(
-    'https://jsonplaceholder.typicode.com/posts'
-  ).then((response) => response.json());
+//(async () => {
+  //const apiData = await fetch(
+    //'https://jsonplaceholder.typicode.com/posts'
+  //).then((response) => response.json());
 
   const myData = [
     {
@@ -43,4 +43,4 @@ const card = (title, description, image) => ` <div class="col-lg-4 col-sm-12"> <
   myData.forEach((post) => { 
     document.getElementById('card-list').innerHTML += card(post.title, post.description, post.image)
   });
-})();
+//})();
