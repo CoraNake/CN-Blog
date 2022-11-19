@@ -15,7 +15,7 @@ const card = (title, description, image) => ` <div class="col-lg-4 col-sm-12"> <
     },
     {
       title: 'Mercredi 16 Novembre 2022',
-      description: 'Matin: Table ronde autour du partage de nouvelles découvertes dans le monde du Code. Mon sujet était d\'expliquer en quoi consiste les métiers de l\'Ui et l\'UX Designer dans la conception d\'un site web.<br>Transition de Codesandbox à Stackblitz.Panne de courant donc exercice de création du jeu \'Morpion\' dans l\'attente d\'internet.<br> Retour du courant: Apprentissage de Bootstrap. Après-midi: Création du projet Portfolio.',
+      description: 'Matin: Table ronde autour du partage de nouvelles découvertes dans le monde du Code. Mon sujet était d\'expliquer en quoi consiste les métiers de l\'Ui et l\'UX Designer dans la conception d\'un site web.<br>Transition d\'éditeur de texte de Codesandbox à Stackblitz.Panne de courant donc exercice de création du jeu \'Morpion\' dans l\'attente d\'internet.<br> Retour du courant: Apprentissage de Bootstrap. Après-midi: Création du projet Portfolio.',
       image: "https://picsum.photos/1000/600",  
     },
     {
@@ -25,7 +25,7 @@ const card = (title, description, image) => ` <div class="col-lg-4 col-sm-12"> <
       },
       {
       title: 'Vendredi 18 Novembre 2022',
-      description: 'Rattrapage du retard: Finition du projet Portfolio grâce au partage du code de Maru.<br> Puis création du projet Blog et mise en forme du Blog avec seulement Javascript et HTML. Configuration des articles et rédaction de nos comptes-rendus de la semaine du 14-18 Novembre.',
+      description: 'Rattrapage du retard: Finition du projet Portfolio grâce au partage du code de Maru.<br> Puis création du projet Blog et mise en forme du Blog avec seulement Javascript et HTML. Apprentissage de Json. Configuration des articles et rédaction de nos comptes-rendus de la semaine du 14-18 Novembre.',
       image: "https://picsum.photos/1000/600",  
     },
       {
