@@ -25,7 +25,7 @@ const card = (title, description, image) => ` <div class="col-lg-4 col-sm-12"> <
       },
       {
       title: 'Vendredi 18 Novembre 2022',
-      description: 'Rattrapage du retard: Finition du projet Portfolio grâce au partage du code de Maru.<br> Puis création du Blog et mise en forme du Blog avec Javascript et HTML. Encore en configuration.',
+      description: 'Rattrapage du retard: Finition du projet Portfolio grâce au partage du code de Maru.<br> Puis création du projet Blog et mise en forme du Blog avec seulement Javascript et HTML. Configuration des articles et rédaction de nos comptes-rendus de la semaine du 14-18 Novembre.',
       image: "https://picsum.photos/1000/600",  
     },
       {
